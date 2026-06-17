@@ -1,23 +1,6 @@
 # 🎯 CareerIQ v2 — AI-Powered Job Market Trend Analyzer
 
-## What's New in v2
-- ✅ **Groq AI** (llama-3.3-70b) replaces Gemini — free, no billing issues
-- ✅ **Adzuna API** for real live job listings
-- ✅ **Robust JSON parsing** — handles Groq responses with text before/after JSON
-- ✅ **Mock Interview Timer** — 2-minute countdown per question
-- ✅ **Roadmap progress saved to DB** — survives page refresh
-- ✅ **Community pagination** — 10 posts per page
-- ✅ **Real course search links** — no fake Coursera/Udemy URLs
-- ✅ **Profile page** — edit name, field, skills, GitHub, LinkedIn, change password
-- ✅ **Resume history** — all uploads saved, view in Profile
-- ✅ **Job bookmarking** — save/unsave jobs, view in Profile
-- ✅ **Dark mode** — full app dark theme, persisted in localStorage
-- ✅ **Notifications** — get alerted when someone answers your question
-- ✅ **Community leaderboard** — top contributors by score
-- ✅ **Error boundaries** — component crashes don't break the whole app
-- ✅ **Backend file validation** — MIME type + size check on resume upload
-
----
+CareerIQ is an AI-powered job market trend analyzer designed to help college students make smarter career decisions. It uses Groq Llama 3.3-70B AI for resume analysis, skill gap detection, and personalized career roadmaps, along with real-time job listings from the Adzuna API. The platform also includes features like mock interviews, job bookmarking, community discussions, and progress tracking to provide an end-to-end career guidance system.
 
 ## Setup
 
