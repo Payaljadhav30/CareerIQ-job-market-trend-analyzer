@@ -1,0 +1,5 @@
+{
+    "C_Cpp.copilotHover": "disabled",
+    "terminal.integrated.initialHint.copilotCli": true,
+    "terminal.integrated.initialHint": false
+}
